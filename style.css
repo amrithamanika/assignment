@@ -1,0 +1,79 @@
+.navigation{
+    float:none;
+    margin-top:40px;
+    margin-right:50px ;
+}
+.navigation a{
+    text-decoration:none;
+    color:black;
+    border:1px solid white;
+    margin:5px; 
+    padding:80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.div{
+    width:80%;
+    border:1px solid grey;
+    padding:50px ;
+    margin:20px ;
+    text-align:center;
+   
+}
+.h2{
+    text-align:center;
+    text-decoration:underline;
+    color:red;
+    padding-left:50px ;
+   
+}
+p{
+    padding-left:50% ;
+    font-size:120%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+hr{
+    width:90%;
+    
+}
+.skill{
+    text-align:center;
+    text-decoration:underline;
+    color:black;
+    padding-left:50px ;
+
+}
+ul{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left:10%;
+}
+.edu{
+    text-align:center;
+    text-decoration:underline;
+    color:red;
+    padding-left:50px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+.contact{
+    text-align:center;
+    text-decoration:underline;
+    color:black;
+    padding-left:50px ;
+
+}
+.form{
+    text-align:center;
+
+}
+.media a{
+    text-decoration:none;
+    color:black;
+    border:1px solid white;
+    margin:5px; 
+    padding:80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.copy{
+    
+}
